@@ -1,0 +1,6 @@
+<Exercicios de Python>
+>status : Em desenvolvimento
+
+...
+npm install vscode
+...
